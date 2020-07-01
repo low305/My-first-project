@@ -8,7 +8,7 @@ The point of this is to give me a rough guide of the geographical spread of a ty
 
 
 
-yelp3.py I wrote from scratch which gathers and starts to clean the data
+yelp3.py I wrote from scratch which gathers and starts to clean the data and stores it in a database (fname.sqlite)
 
 yelptowhere.py was from my course but has been heavily edited up to 50%, cleans and writes data to where.js
 
@@ -23,3 +23,5 @@ The run order is
 yelp3.py
 yelptowhere.py
 Then open where.html to visualise
+
+The database browser and SQL used is SQLite
