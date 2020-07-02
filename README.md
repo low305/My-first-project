@@ -22,6 +22,6 @@ where.html is very lightly edited and available under a creative commons licence
 The run order is 
 yelp3.py
 yelptowhere.py
-Then open where.html to visualise
+Then open where.html to visualise the data.
 
 The database browser and SQL used is SQLite
