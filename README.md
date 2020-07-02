@@ -1,10 +1,10 @@
 # My-first-project
+Collection of geodata and visualization of landscaping companies registered on the yelp API
+in every county in England, Scotland, Wales and Northern Ireland
+
 I have done this project as a close to a course on python that i have been doing as an absolute beginner
 
 The first version of yelp3.py was my starting point. It's cleaner and picks up where it left off (restartable). It's a good start point for someone to have a go at writing a clean up to write the data needed to where.js
-
-Collection of geodata and visualization of landscaping companies registered on the yelp API
-in every county in England, Scotland, Wales and Northern Ireland
 
 The point of this is to give me a rough guide of the geographical spread of a type of business. And this could easily be adapted to handle user input to determine other types of businesses for the search.
 
